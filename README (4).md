@@ -78,7 +78,7 @@ E-commerce-Sales-Analysis/
       - Sales by region 
       - Sales by Segment
 
-![Dashboard Screenshot](E commerce sales Dashboard Image.png)
+![Dashboard Screenshot](E%20commerce%20sales%20Dashboard%20Image.png)
 
 # How to Run This Project
 
