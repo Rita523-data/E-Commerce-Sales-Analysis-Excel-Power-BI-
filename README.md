@@ -5,7 +5,7 @@ This project analyzes e-commerce sales and finance performance. The goal is to i
 
 # Interactive Dashboard Link
 
-[Click here to view](https://app.powerbi.com/groups/me/reports/2a8bde60-e526-4360-91d9-ab2c1c5fc933/25f6b6145e29785e0ea4?experience=power-bi)
+[Click here to view](https://app.powerbi.com/view?r=eyJrIjoiNzQ3ODMzMDItMzkzMy00NjYyLTg1YWEtYjYwYTRlMjMxZTI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Table Of Contents
  
